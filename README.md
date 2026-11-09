@@ -1,4 +1,4 @@
-# Anderson Silva
+# Anderson (A.k.a Kölja/Niko)
 
 AI and systems engineer in São Paulo, also known as Kölja. I've been writing software for more than 17 years. I design each system, build the core myself and direct AI coding agents through the rest, with automated tests at every step.
 
